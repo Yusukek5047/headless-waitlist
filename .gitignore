@@ -3,3 +3,4 @@ build/
 *.pyc
 .env
 node_modules/
+tmp/
