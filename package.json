@@ -1,6 +1,6 @@
 {
   "name": "headless-waitlist",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Headless waitlist system with email validation and rate limiting.",
   "main": "src/index.ts",
   "scripts": {
